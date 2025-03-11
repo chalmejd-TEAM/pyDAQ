@@ -1,5 +1,6 @@
 import unittest
-from importers.mdf_importer import MDFImporter
+from daq_importer.importers.mdf_importer import MDFImporter
+import pandas as pd
 
 class TestMDFImporter(unittest.TestCase):
     def test_load(self):

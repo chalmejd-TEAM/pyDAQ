@@ -15,5 +15,6 @@ def detect_importer(file_path: str):
         ".csv": "CSVImporter",
         ".xdf": "XDFImporter",
         ".pak": "PAKImporter",
+        ".dxd": "DXDImporter",
     }
     return mapping.get(ext, None)
