@@ -5,6 +5,7 @@ from .importers.dxd_importer import DXDImporter
 from .importers.mat_importer import MATImporter
 from .importers.csv_importer import CSVImporter
 from .importers.can_importer import CANImporter
+from .importers.xdf_importer import XDFImporter
 
 
 class DAQReader:
