@@ -2,8 +2,8 @@ from .utils.file_utils import detect_importer
 from .importers.mdf_importer import MDFImporter
 from .importers.tdms_importer import TDMSImporter
 from .importers.dxd_importer import DXDImporter
-# from .importers.mat_importer import MATImporter
-# from .importers.csv_importer import CSVImporter
+from .importers.mat_importer import MATImporter
+from .importers.csv_importer import CSVImporter
 
 
 class DAQReader:
