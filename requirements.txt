@@ -1,0 +1,8 @@
+pandas~=2.2.3
+python-can~=4.5.0
+dwdatareader~=0.16.0
+scipy~=1.15.2
+h5py~=3.13.0
+asammdf~=8.2.4
+pyxdf~=1.17.0
+npTDMS~=1.10.0

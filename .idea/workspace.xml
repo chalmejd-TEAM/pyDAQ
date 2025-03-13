@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ba43642-15ec-4ebb-af95-340c13901065" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/daq_importer/daq_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/daq_importer/daq_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daq_importer/importers/pak_importer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daq_importer/importers/xdf_importer.py" beforeDir="false" afterPath="$PROJECT_DIR$/daq_importer/importers/xdf_importer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daq_importer/utils/file_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/daq_importer/utils/file_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daq_importer/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/daq_importer/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

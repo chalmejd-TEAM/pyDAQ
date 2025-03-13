@@ -1,5 +1,0 @@
-pandas~=2.2.3
-asammdf~=8.2.2
-npTDMS~=1.10.0
-dwdatareader~=0.16.0
-
